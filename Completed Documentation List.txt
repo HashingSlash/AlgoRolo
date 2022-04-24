@@ -1,19 +1,22 @@
-10/04/2022
-https://docs.algofi.org/algofi-lending/mainnet-contracts
+Documented
+https://docs.algofi.org/algofi-lending/mainnet-contracts - 10/04/2022
 	AlgoFi Lending
 	AlgoFi Dex
 	AlgoFi Nanoswap
 	AlgoFi Vault
-https://docs.tinyman.org/contracts
-https://app.yieldly.finance/about
-https://app.yieldly.finance/pools
-https://app.yieldly.finance/liquidity-pools
-https://app.yieldly.finance/distribution
-https://app.algofund.co/
-https://app.algofund.co/farming
+https://docs.tinyman.org/contracts - 10/04/2022
+https://app.yieldly.finance/about - 10/04/2022
+https://app.yieldly.finance/pools - 10/04/2022
+https://app.yieldly.finance/liquidity-pools - 10/04/2022
+https://app.yieldly.finance/distribution - 10/04/2022
+https://app.algofund.co/ - 10/04/2022
+https://app.algofund.co/farming - 10/04/2022
+https://docs.folks.finance/developer/contracts - 17/04/2022
 
-
-17/04/2022
-https://docs.folks.finance/developer/contracts
+Assumed
+Pact Rewards
+Algofund Gov Vote 1
+AlgoFi STBL/USDC Nanoswap LP Stability staking program
+AlgoFi STBL/USDC Tinyman v1 LP Staking
 
 
