@@ -1,0 +1,7 @@
+examples of formatting
+
+
+["Yieldly", "CHOICE/YLDY LP-TM > YLDY"]		Choice/yldy Liquidity Pool-Tinyman Staking for YLDY 
+["AlgoFi", "USDC/STBL LP-AFns Staking"]		USDC/STBL Liquidity Pool-AlgoFi Nanoswap Token staking
+["Yieldly", "YLDY > DEFLY"]
+["Folks Finance", "gALGO-goETH Market"]
