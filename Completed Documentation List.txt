@@ -6,15 +6,13 @@ https://docs.algofi.org/algofi-lending/mainnet-contracts - 10/04/2022
 	AlgoFi Vault
 https://docs.tinyman.org/contracts - 10/04/2022
 https://app.yieldly.finance/about - 10/04/2022
-
 https://docs.folks.finance/developer/contracts - 17/04/2022
-
 https://app.yieldly.finance/pools - 06/05/2022
-https://app.yieldly.finance/liquidity-pools - 06/05/2022
 https://app.yieldly.finance/distribution - 06/05/2022
-
 https://app.algofund.co/ - 11/05/2022
 https://app.algofund.co/farming - 11/05/2022
+
+https://app.yieldly.finance/liquidity-pools - 06/05/2022
 
 Assumed
 Pact Rewards
