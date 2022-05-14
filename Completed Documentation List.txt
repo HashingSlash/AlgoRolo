@@ -19,5 +19,6 @@ Pact Rewards
 Algofund Gov Vote 1
 AlgoFi STBL/USDC Nanoswap LP Stability staking program
 AlgoFi STBL/USDC Tinyman v1 LP Staking
+other unlisted AlgoFi apps.
 
 
