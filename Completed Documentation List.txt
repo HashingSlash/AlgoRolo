@@ -10,9 +10,9 @@ https://docs.folks.finance/developer/contracts - 17/04/2022
 https://app.algofund.co/ - 11/05/2022
 https://app.algofund.co/farming - 11/05/2022
 
-https://app.yieldly.finance/liquidity-pools - 24/05/2022
-https://app.yieldly.finance/pools - 24/05/2022
-https://app.yieldly.finance/distribution - 24/05/2022
+https://app.yieldly.finance/liquidity-pools - 08/06/2022
+https://app.yieldly.finance/pools - 08/06/2022
+https://app.yieldly.finance/distribution - 08/06/2022
 
 Assumed
 Pact Rewards
